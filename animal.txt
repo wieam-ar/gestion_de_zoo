@@ -1,0 +1,6 @@
+Zoo : Zoo National, Superficie : 5000
+Liste des animaux :
+001, Canis lupus familiaris, chien, 4, France
+002, Felis catus, chat, 4, Egypte
+003, Gallus gallus domesticus, poulet, 2, Inde
+004, Bos taurus, vache, 4, Inde
